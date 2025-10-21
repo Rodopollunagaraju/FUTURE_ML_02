@@ -65,12 +65,6 @@ Used the **Bank Customer Churn dataset** with details of 10,000 customers.
 
 ---
 
-## 📈 Dashboard in Power BI  
-<img width="1382" height="781" alt="Screenshot 2025-09-04 184856" src="https://github.com/user-attachments/assets/fe14c631-1bb6-49c0-adf0-84e5a7b68922" />
-
-
-🔗 [Download Dashboard File](https://github.com/Vikram77727/FUTURE_ML_02/blob/d24f810a8ce25ce892fb36599f7db697d16fe153/Ml_Task_2.pbix)
-
 ---
 
 ## ⚡ How to Run  
@@ -95,3 +89,4 @@ This project shows how **machine learning** and **business intelligence tools** 
 - Provide actionable insights to improve **customer retention**  
 
 🏆 This was delivered as **Task 2** of my Machine Learning Internship, focusing on **classification, model evaluation, and dashboard reporting**.  
+
